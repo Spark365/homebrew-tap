@@ -1,6 +1,6 @@
 cask "deskstag" do
-  version "1.0.7"
-  sha256 "d786574dffedda526cdd67d3d032b7fb6cfdea2a39a3789242fbf8ebeb22d2d3"
+  version "1.0.8"
+  sha256 "3dec4fadc853dcf92986813037ffcadb50a5e127156761ef82949a5d1b138b4b"
 
   url "https://deskstag.com/DeskStag-#{version}.dmg"
   name "DeskStag"
